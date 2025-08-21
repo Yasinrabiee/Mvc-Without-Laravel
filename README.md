@@ -25,12 +25,14 @@ Mvc-Without-Laravel/
 
 ## Requirements
 1. Template Engine
-2. Router System
+2. Routing System
 
-### Template engine:
+### 1.Template engine
 We use BladeOne (Independent template engine but it look like laravel blade)
 
 #### install
 ```bash
 composer require eftec/bladeone
 ```
+
+### 2. Routing System
