@@ -46,6 +46,9 @@ composer require bramus/router ~1.6
 
 ### 3. Apache Configuration
 Create .htacces file and write this code in the file.
-```
-
+```perl
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
 ```
