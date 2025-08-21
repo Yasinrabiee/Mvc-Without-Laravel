@@ -26,6 +26,7 @@ Mvc-Without-Laravel/
 ## Requirements
 1. Template Engine
 2. Routing System
+3. Apache Configuration
 
 ### 1.Template engine
 We use BladeOne (Independent template engine but it look like laravel blade)
@@ -41,4 +42,10 @@ composer require eftec/bladeone
 #### Installation
 ```bash
 composer require bramus/router ~1.6
+```
+
+### 3. Apache Configuration
+Create .htacces file and write this code in the file.
+```
+
 ```
