@@ -30,9 +30,15 @@ Mvc-Without-Laravel/
 ### 1.Template engine
 We use BladeOne (Independent template engine but it look like laravel blade)
 
-#### install
+#### Installation
 ```bash
 composer require eftec/bladeone
 ```
 
 ### 2. Routing System
+
+
+#### Installation
+```bash
+composer require bramus/router ~1.6
+```
