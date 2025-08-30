@@ -5,7 +5,7 @@ We just use two small librarys.
 ## Project Structure
 ```txt
 Mvc-Without-Laravel/
-│
+|
 |── composer.json
 |── composer.lock
 |── index.php
