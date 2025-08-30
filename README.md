@@ -6,22 +6,22 @@ We just use two small librarys.
 ```txt
 Mvc-Without-Laravel/
 │
-├── composer.json
-├── composer.lock
-├── index.php
-├── .htaccess  # Apache configuration
-│
-├── views/
-│   └── main.blade.php # Views
-│
-├── controllers/ # Controller
-│   └── controller.php
-│
-├── models/ # Model(DB classes)
+|── composer.json
+|── composer.lock
+|── index.php
+|── .htaccess  # Apache configuration
+|
+|── views/
+|   └── main.blade.php # Views
+|
+|── controllers/ # Controller
+|   └── controller.php
+|
+|── models/ # Model(DB classes)
 |   └── model.php
-│
-├── vendor/ # Composer folder
-│
+|
+|── vendor/ # Composer folder
+|
 └── cache/ # Cache for rendered views
 ```
 
