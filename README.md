@@ -9,19 +9,19 @@ Mvc-Without-Laravel/
 ├── composer.json
 ├── composer.lock
 ├── index.php
-├── .htaccess
+├── .htaccess  # Apache configuration
 │
 ├── views/
-│   └── main.blade.php
+│   └── main.blade.php # Views
 │
-├── controllers/
+├── controllers/ # Controller
 │   └── controller.php
 │
-├── models/
+├── models/ # Model(MySql)
 │
 ├── vendor/
 │
-└── cache/
+└── cache/ # Cache for rendered views
 ```
 
 ## Requirements
