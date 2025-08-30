@@ -1,4 +1,4 @@
-# Mvc Structure
+# Mvc Without Laravel
 This repository is a structure of a project with MVC architecture (without frameworks like Laravel and Symfony).
 We just use two small librarys.
 
@@ -17,9 +17,10 @@ Mvc-Without-Laravel/
 ├── controllers/ # Controller
 │   └── controller.php
 │
-├── models/ # Model(MySql)
+├── models/ # Model(DB classes)
+|   └── model.php
 │
-├── vendor/
+├── vendor/ # Composer folder
 │
 └── cache/ # Cache for rendered views
 ```
