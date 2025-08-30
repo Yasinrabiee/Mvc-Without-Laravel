@@ -22,7 +22,7 @@ Mvc-Without-Laravel/
 |
 |── vendor/ # Composer folder
 |
-└── cache/ # Cache for rendered views
+|── cache/ # Cache for rendered views
 ```
 
 ## Requirements
