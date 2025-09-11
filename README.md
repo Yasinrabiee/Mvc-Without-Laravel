@@ -21,6 +21,9 @@ Mvc-Without-Laravel/
 |── models/ # Model(DB classes)
 |   └── model.php
 |
+|── models/ # Model(DB classes)
+|  └── model.php
+|
 |── vendor/ # Composer folder
 |
 |── cache/ # Cache for rendered views
