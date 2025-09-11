@@ -21,8 +21,8 @@ Mvc-Without-Laravel/
 |── models/ # Model(DB classes)
 |   └── model.php
 |
-|── models/ # Model(DB classes)
-|  └── model.php
+|── middlewares/
+|  └── middleware.php
 |
 |── vendor/ # Composer folder
 |
