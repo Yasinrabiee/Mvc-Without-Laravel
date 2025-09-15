@@ -60,4 +60,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^ index.php [QSA,L]
 ```
 
-### 4. Define Model, View and Controller
+### 4. Define Model, View, Controller
+Now you can define Model, view, controller and middleware...
